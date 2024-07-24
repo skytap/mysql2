@@ -137,7 +137,7 @@ mysql2_mysql_enc_name_to_rb (str, len)
       {""},
       {"dec8", NULL},
       {"cp850", "CP850"},
-      {"latin1", "ISO-8859-1"},
+      {"latin1", "UTF-8"},
       {""},
       {"hp8", NULL},
       {""},
